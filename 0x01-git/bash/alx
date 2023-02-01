@@ -1,4 +1,1 @@
-
-#!/bin/bash
-echo "ALX"
-
+-e#!/bin/bash\necho "ALX"
